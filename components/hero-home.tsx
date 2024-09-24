@@ -70,8 +70,8 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              The website builder you're <br className="max-lg:hidden" />
-              looking for
+              Escuela de musica <br className="max-lg:hidden" />
+              Bethel Music Worship
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
